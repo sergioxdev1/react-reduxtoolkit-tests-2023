@@ -7,7 +7,7 @@ export default function App() {
   return (
     <Provider store={store}>
       <div>
-        <h1>Hello App!</h1>
+        <h1>Redux toolkit tests</h1>
         <Counter></Counter>
       </div>
     </Provider>
