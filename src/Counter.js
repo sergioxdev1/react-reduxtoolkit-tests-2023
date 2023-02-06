@@ -19,7 +19,7 @@ const Counter = (props) => {
       &nbsp;&nbsp;
       <button
         onClick={() => {
-          dispatch(drecrement());
+          dispatch(decrement());
         }}
       >
         Decremet 
